@@ -3,7 +3,7 @@ require 'forwardable'
 require 'rubygems'
 require 'nokogiri'
 require 'nokogiri_ext'
-require 'zip/zip'
+require 'zip'
 require 'fileutils'
 
 class Ods
